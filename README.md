@@ -3,7 +3,7 @@ Project resulting from the [Laravel 8 from Scratch](https://laracasts.com/series
 The project must be ran with Laravel Sail, and you must create a database named `example_app`.
 
 Here are some helpful commands:
-- To install the dependencies run:
+- To install the dependencies run [this code](https://laravel.com/docs/10.x/sail#installing-composer-dependencies-for-existing-projects):
 ```
 docker run --rm \
     -u "$(id -u):$(id -g)" \
